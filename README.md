@@ -17,4 +17,4 @@ SMTP for email integration
 
 Contribute, modify, and improve the system! 🎉
 
-📌 Repo: [GitHub Link]
+📌 Repo: [(https://github.com/bytecode20/BankingApp/blob/main/Banking_app.py)]
